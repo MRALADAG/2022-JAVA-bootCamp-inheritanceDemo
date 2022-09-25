@@ -1,5 +1,5 @@
 public class BaseKrediManager {
     public void hesapla() {
-        System.out.println("\nKredi hesaplandı.");
+        System.out.println("Kredi hesaplandı.\n");
     }
 }
